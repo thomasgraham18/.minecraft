@@ -5,6 +5,7 @@ config/
 data/
 libraries/
 logs/
+saves/
 screenshots/
 webcache2/
 wurst/
@@ -14,3 +15,4 @@ wurst/
 /*.json
 /*.dat
 /*.bin
+/*.dat_old
