@@ -1,0 +1,16 @@
+# Folders to ignore
+.fabric/
+assets/
+config/
+data/
+libraries/
+logs/
+screenshots/
+webcache2/
+wurst/
+
+# Files to ignore
+/*.txt
+/*.json
+/*.dat
+/*.bin
