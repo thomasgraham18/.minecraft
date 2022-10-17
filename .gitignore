@@ -8,6 +8,7 @@ logs/
 saves/
 screenshots/
 webcache2/
+baritone/
 
 # Files to ignore
 /*.txt
