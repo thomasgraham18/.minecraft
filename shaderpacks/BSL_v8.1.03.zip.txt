@@ -1,4 +1,4 @@
-#Mon Oct 17 14:41:30 ADT 2022
+#Tue Oct 18 10:48:39 ADT 2022
 shadowDistance=512.0
 SSS_QUALITY=1
 shadowMapResolution=4096
